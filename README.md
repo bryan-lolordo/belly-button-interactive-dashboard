@@ -16,19 +16,19 @@ Tools used to built the interactive dashboard are:
 
 ### Building Demographic Panel 
 
-<img width="151" alt="SubID with Demo_Info" src="https://user-images.githubusercontent.com/42523379/204211032-bcf362ba-49df-405d-a434-11a9d1936151.PNG">
+![demographic-panel](https://github.com/bryan-lolordo/belly-button-interactive-dashboard/assets/134180762/6d3da389-6d29-4a84-9b27-d52aefa88df6)
 
 ### Bar Chart 
 
-<img width="320" alt="Bar_Chart" src="https://user-images.githubusercontent.com/42523379/204211121-00ce6409-caac-4a3b-bbc2-21c48745f6ba.PNG">
+![bact-bar-chart](https://github.com/bryan-lolordo/belly-button-interactive-dashboard/assets/134180762/8ef34335-8c35-4268-8a72-121decc41b1c)
 
 ### Bubble Chart
 
-<img width="802" alt="Bubble_chart" src="https://user-images.githubusercontent.com/42523379/204211171-f53e2fee-7690-4be6-9b77-15742a973b14.PNG">
+![bacteria-bubble-chart](https://github.com/bryan-lolordo/belly-button-interactive-dashboard/assets/134180762/5df9abd2-17b0-4c0a-8f4f-beaef67b2586)
 
 ### Gauge 
 
-<img width="292" alt="Gauge" src="https://user-images.githubusercontent.com/42523379/204211209-7ecfa006-6f75-4fad-a806-c0021fb6b0d2.PNG">
+![belly-button-gauge](https://github.com/bryan-lolordo/belly-button-interactive-dashboard/assets/134180762/94309fc4-66ce-418b-9ee4-1e2b4fc971c1)
 
 ## Results
 
