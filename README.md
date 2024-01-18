@@ -14,22 +14,21 @@ Tools used to built the interactive dashboard are:
     - Plotly and D3 in index. html to built the graphs and display results 
     -specific functions such as sort, map and filter 
 
-### Building demographic panel 
+### Building Demographic Panel 
 
+<img width="151" alt="SubID with Demo_Info" src="https://user-images.githubusercontent.com/42523379/204211032-bcf362ba-49df-405d-a434-11a9d1936151.PNG">
 
+### Bar Chart 
 
-### Bar chart 
+<img width="320" alt="Bar_Chart" src="https://user-images.githubusercontent.com/42523379/204211121-00ce6409-caac-4a3b-bbc2-21c48745f6ba.PNG">
 
+### Bubble Chart
 
-
-### BUbble chart
-
-
+<img width="802" alt="Bubble_chart" src="https://user-images.githubusercontent.com/42523379/204211171-f53e2fee-7690-4be6-9b77-15742a973b14.PNG">
 
 ### Gauge 
 
-
-
+<img width="292" alt="Gauge" src="https://user-images.githubusercontent.com/42523379/204211209-7ecfa006-6f75-4fad-a806-c0021fb6b0d2.PNG">
 
 ## Results
 
