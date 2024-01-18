@@ -34,7 +34,8 @@ Tools used to built the interactive dashboard are:
 
 The final web page displayed as follows 
 
-
+![belly-button-biodiversity-dashboard](https://github.com/bryan-lolordo/belly-button-interactive-dashboard/assets/134180762/cd411fb1-0c8c-43a1-9b9d-c1c4ead9acd6)
+![biodiversity_dashboard](https://bryan-lolordo.github.io/belly-button-interactive-dashboard/)
 
 The gauge can be further enhanced by building it to show an arrow that would point dynamically acrosss the guage scale however, in this case it is displaying a value that corresponds to the subject ID selected from the dropdown. 
 This information serves as a baseline to further enhance the webpage and display data on dashboard that can be used effectively for biodiversity research project. 
